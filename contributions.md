@@ -16,12 +16,9 @@ Replace the first row with your own contribution.
 
 -->
 
-
-
-
-
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| April 28 | [Contribution](https://github.com/ossd-sp22/slap-a-fetti/pull/8)  | Browser Add-On  | Fix page content spinning uncontrollably |
 |     |     |     |      |
 |     |     |     |      |
+
