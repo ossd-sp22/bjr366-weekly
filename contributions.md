@@ -30,3 +30,7 @@ Replace the first row with your own contribution.
 | May 11 | [Contribution](https://github.com/ossd-sp22/slap-a-fetti/issues/7#issuecomment-1124448422)  | Browser Add-On  | Created a Comment to an Issue and closed it |
 |     |     |     |      |
 |     |     |     |      |
+
+| May 15 | [Contribution](https://github.com/joannakl/ossd/issues/33)  | Course Website  | Reported the Issue: Typo in Week 13 |
+|     |     |     |      |
+|     |     |     |      |
