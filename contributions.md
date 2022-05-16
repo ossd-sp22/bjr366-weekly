@@ -25,5 +25,4 @@ Replace the first row with your own contribution.
 | May 15 | [Contribution](https://github.com/joannakl/ossd/issues/16#issuecomment-1127068078)  | Course Website  | Claimed an issue |
 | May 15 | [Contribution](https://github.com/joannakl/ossd/issues/20#issuecomment-1127066768)  | Course Website  | Claimed an issue |
 | May 15 | [Contribution](https://github.com/ossd-sp22/searchionary/issues/4)  | Browser Add-On  | Report an Issue |
-
-
+| May 15 | [Contribution](https://github.com/ossd-sp22/searchionary/pull/5)  | Browser Add-On | Fix the Issue above |
